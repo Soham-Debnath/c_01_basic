@@ -1,1 +1,1 @@
-# These codes are the basic examples of C language.
+# These codes are the basic examples in C language.
